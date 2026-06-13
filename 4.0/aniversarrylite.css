@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: lime;
+  margin-left: 10px;
+}
+
+p {
+	color:lime;
+	margin-left: 20px;
+}
+
+h2 {
+	color:lime;
+	margin-left: 10px;
+}
+
+h3 {
+	color:lime;
+	margin-left: 10px;
+}
+
+a {
+	color:lime;
+	margin-left: 20px;
+}
+
+body {
+  background-image: url("assets/images/website/aniversarry.gif");
+  background-repeat: repeat;
+  background-color: #000000;
+}
