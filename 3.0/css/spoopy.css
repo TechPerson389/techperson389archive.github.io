@@ -1,0 +1,94 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: orange;
+  margin-left: 10px;
+}
+
+p {
+	color:orange;
+	margin-left: 20px;
+}
+
+h2 {
+	color:orange;
+	margin-left: 10px;
+}
+
+h3 {
+	color:orange;
+	margin-left: 10px;
+}
+
+a {
+	color:orange;
+	margin-left: 20px;
+}
+
+body {
+  background-image: url("/3.0/assets/images/website/halloween3.gif");
+  background-repeat: repeat;
+  background-color: #000000;
+}
+
+/* Place the navbar at the bottom of the page, and make it stick */
+.navbar {
+  background-color: #000;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #000;
+  color: orange;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #FFA500;
+  color: black;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #000;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #000;
+  color: orange;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #32CD32;
+  color: black;
+}
