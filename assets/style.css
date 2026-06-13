@@ -1,0 +1,47 @@
+html {
+	height: auto;
+}
+	
+body {
+	height: auto;
+	background-color: #000000;
+	background: linear-gradient(to bottom, #45484d 0%,#000000 100%) no-repeat;
+	background-position: 100%;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #FFFFFF;
+	font-family: "Arial", sans-serif;
+	text-align: center;
+}
+
+table {
+	width: 1500px;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+tr, td {
+	padding: 5px;
+	border: 2px solid #FFFFFF;
+	background-color: #00000033;
+}
+
+.sector {
+	width: 500px;
+}
+
+.textsection {
+	text-align: left;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.weblink {
+	color: #FFFFFF;
+}
+
+.back {
+	color: #FFFFFF;
+}
